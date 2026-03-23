@@ -1,6 +1,7 @@
 # Store Sales - Time Series Forecasting
 
 This repository contains my solution for the Kaggle competition:  
+
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 ---
@@ -69,5 +70,10 @@ The dataset belongs to the Kaggle competition and must be downloaded from the of
 
 ## Data
 
-Download the dataset from Kaggle:
-https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+Download the dataset from Kaggle:  
+
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data  
+
+#### Kaggle Notebook: https:
+
+https://www.kaggle.com/code/harukimurai/the-power-of-store-maturity
