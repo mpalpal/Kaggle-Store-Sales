@@ -74,6 +74,6 @@ Download the dataset from Kaggle:
 
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data  
 
-#### Kaggle Notebook: https:
+Kaggle Notebook:
 
 https://www.kaggle.com/code/harukimurai/the-power-of-store-maturity
